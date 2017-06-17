@@ -1,0 +1,12 @@
+language: python
+python:
+  - "3.5.1"
+
+install:
+  - pip install -r requirements.txt -r test-requirements.txt
+
+script: 
+  - coverage run --source=c3os setup.py test
+
+after_success:
+  - coveralls

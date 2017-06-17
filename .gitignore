@@ -1,0 +1,14 @@
+*.pyc
+*.log
+settings.ini
+docs/
+*.egg-info
+build/
+dist/
+*.eggs/
+.coverage
+
+*.db
+*.log
+
+sphinx/source/modules/

@@ -1,0 +1,6 @@
+pbr!=2.1.0,>=2.0.0
+python-novaclient==6.0.0
+pika==0.10.0
+sqlalchemy==1.1.5
+Babel>=2.3.4,!=2.4.0
+requests!=2.12.2,!=2.13.0,>=2.10.0
