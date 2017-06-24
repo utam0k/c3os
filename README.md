@@ -26,8 +26,8 @@ python setup.py install
 ```
 
 ## Feature Development
-- Add supporting other CloudOS.
+- Add supporting other CloudOS.(Introduce [libcloud](https://github.com/apache/libcloud))
 - Migrating among multiple CloudOS.
 
 ## License
-MIT
+[MIT](https://github.com/utam0k/c3os/blob/master/LICENSE.txt)
