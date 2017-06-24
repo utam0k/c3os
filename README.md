@@ -1,6 +1,7 @@
 # C3OS
 [![Build Status](https://travis-ci.org/utam0k/c3os.svg?branch=master)](https://travis-ci.org/utam0k/c3os)
 [![Coverage Status](https://coveralls.io/repos/github/utam0k/c3os/badge.svg?branch=master)](https://coveralls.io/github/utam0k/c3os?branch=master)
+[![Join the chat at https://gitter.im/utam0k-c3os/Lobby](https://badges.gitter.im/utam0k-c3os/Lobby.svg)](https://gitter.im/utam0k-c3os/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## What is C3OS?
 C3OS stands for **Controller of Clustering CloudOS**.  
@@ -28,6 +29,9 @@ python setup.py install
 ## Feature Development
 - Add supporting other CloudOS.(Introduce [libcloud](https://github.com/apache/libcloud))
 - Migrating among multiple CloudOS.
+
+## Contact
+Questions? Comments? Please ask me at our Gitter channel.
 
 ## License
 [MIT](https://github.com/utam0k/c3os/blob/master/LICENSE.txt)
